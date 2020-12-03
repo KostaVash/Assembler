@@ -1,0 +1,42 @@
+
+opened file wrongInput2
+
+ERROR - Missing commas in line 4 in file wrongInput2
+
+ERROR - Invalid integer in line 6 in file wrongInput2
+
+ERROR - illegal comma in line 13 in file wrongInput2
+
+ERROR - illegal comma in line 15 in file wrongInput2
+
+ERROR - data not terminated correctly in line 17 in file wrongInput2
+
+ERROR - we dont have space in line 25 in file wrongInput2
+
+ERROR - wrong label definition in line 26 in file wrongInput2
+
+closed file wrongInput2
+
+opened file wrongInput1
+
+ERROR - Missing commas in line 4 in file wrongInput1
+
+ERROR - Extraneous text after end of command in line 5 in file wrongInput1
+
+ERROR - Extraneous text after end of command in line 7 in file wrongInput1
+
+ERROR - wrong destination address in line 8 in file wrongInput1
+
+ERROR - wrong destination address in line 10 in file wrongInput1
+
+ERROR - wrong label definition in line 14 in file wrongInput1
+
+ERROR - Extraneous text after end of command in line 15 in file wrongInput1
+
+ERROR - Missing commas in line 16 in file wrongInput1
+
+ERROR - Extraneous text after end of command in line 19 in file wrongInput1
+
+ERROR - line 22 too long in file wrongInput1 
+
+closed file wrongInput1
